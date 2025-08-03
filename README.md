@@ -1,7 +1,8 @@
 **💬 Chat App**
+
 A real-time chat application built with modern web technologies for seamless communication.
 
-(Add a screenshot or GIF here later)
+
 
 **✨ Features**
 Real-time messaging using WebSockets (Socket.io)
