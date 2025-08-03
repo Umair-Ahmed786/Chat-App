@@ -1,4 +1,4 @@
-#Hello
+
 **💬 Chat App**
 
 A real-time chat application built with modern web technologies for seamless communication.
@@ -6,6 +6,7 @@ A real-time chat application built with modern web technologies for seamless com
 
 
 **✨ Features**
+
 Real-time messaging using WebSockets (Socket.io)
 
 Responsive UI that works on desktop & mobile
